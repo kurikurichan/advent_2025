@@ -1,0 +1,10 @@
+pycache/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+venv/
+.venv/
+env/
+.env/
